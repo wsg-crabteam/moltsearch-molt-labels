@@ -1,0 +1,1403 @@
+{
+  "version": "1.0",
+  "timestamp": "2026-11-10T23:18:24.801Z",
+  "imageCount": 15,
+  "annotatedCount": 15,
+  "data": {
+    "115175.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Dungeness crab",
+          "x": 644,
+          "y": 193,
+          "width": 185,
+          "height": 261,
+          "id": 1794351241584
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 626,
+          "y": 555,
+          "width": 259,
+          "height": 332,
+          "id": 1794351245024
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 961,
+          "y": 494,
+          "width": 193,
+          "height": 289,
+          "id": 1794351246704
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 973,
+          "y": 798,
+          "width": 208,
+          "height": 274,
+          "id": 1794351248809
+        },
+        {
+          "type": "Red rock crab",
+          "x": 722,
+          "y": 1009,
+          "width": 175,
+          "height": 269,
+          "id": 1794351259376
+        },
+        {
+          "type": "Red rock crab",
+          "x": 968,
+          "y": 1189,
+          "width": 271,
+          "height": 368,
+          "id": 1794351261096
+        },
+        {
+          "type": "Red rock crab",
+          "x": 167,
+          "y": 1779,
+          "width": 177,
+          "height": 203,
+          "id": 1794351264096
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 999,
+          "y": 23,
+          "width": 172,
+          "height": 208,
+          "id": 1794351268103
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 973,
+          "y": 193,
+          "width": 200,
+          "height": 198,
+          "id": 1794351269656
+        }
+      ]
+    },
+    "116666.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Red rock crab",
+          "x": 580,
+          "y": 210,
+          "width": 421,
+          "height": 266,
+          "id": 1794351276784
+        },
+        {
+          "type": "Red rock crab",
+          "x": 996,
+          "y": 302,
+          "width": 403,
+          "height": 297,
+          "id": 1794351278688
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 1052,
+          "y": 849,
+          "width": 307,
+          "height": 198,
+          "id": 1794351281280
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 1095,
+          "y": 1052,
+          "width": 248,
+          "height": 221,
+          "id": 1794351283055
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 538,
+          "y": 748,
+          "width": 83,
+          "height": 76,
+          "id": 1794352056833
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 469,
+          "y": 709,
+          "width": 64,
+          "height": 55,
+          "id": 1794352062290
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 357,
+          "y": 745,
+          "width": 71,
+          "height": 85,
+          "id": 1794352064082
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 492,
+          "y": 838,
+          "width": 46,
+          "height": 46,
+          "id": 1794352065521
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 731,
+          "y": 720,
+          "width": 51,
+          "height": 47,
+          "id": 1794352066968
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 788,
+          "y": 661,
+          "width": 69,
+          "height": 57,
+          "id": 1794352068794
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 956,
+          "y": 572,
+          "width": 48,
+          "height": 52,
+          "id": 1794352070672
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 834,
+          "y": 775,
+          "width": 63,
+          "height": 55,
+          "id": 1794352072986
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 696,
+          "y": 840,
+          "width": 58,
+          "height": 50,
+          "id": 1794352074337
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 677,
+          "y": 898,
+          "width": 102,
+          "height": 102,
+          "id": 1794352076561
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 536,
+          "y": 875,
+          "width": 66,
+          "height": 64,
+          "id": 1794352083257
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 513,
+          "y": 986,
+          "width": 77,
+          "height": 61,
+          "id": 1794352089825
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 659,
+          "y": 1052,
+          "width": 77,
+          "height": 74,
+          "id": 1794352091353
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 643,
+          "y": 1120,
+          "width": 50,
+          "height": 57,
+          "id": 1794352094384
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 525,
+          "y": 1160,
+          "width": 85,
+          "height": 69,
+          "id": 1794352096040
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 606,
+          "y": 1230,
+          "width": 78,
+          "height": 73,
+          "id": 1794352097504
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 733,
+          "y": 1207,
+          "width": 40,
+          "height": 61,
+          "id": 1794352099985
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 909,
+          "y": 1222,
+          "width": 51,
+          "height": 49,
+          "id": 1794352102377
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 815,
+          "y": 1540,
+          "width": 74,
+          "height": 74,
+          "id": 1794352107041
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 910,
+          "y": 1378,
+          "width": 75,
+          "height": 73,
+          "id": 1794352110417
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 750,
+          "y": 1404,
+          "width": 61,
+          "height": 76,
+          "id": 1794352112474
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 595,
+          "y": 1375,
+          "width": 79,
+          "height": 55,
+          "id": 1794352115290
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 414,
+          "y": 1423,
+          "width": 118,
+          "height": 108,
+          "id": 1794352119416
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 401,
+          "y": 1516,
+          "width": 78,
+          "height": 85,
+          "id": 1794352120961
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 355,
+          "y": 1352,
+          "width": 60,
+          "height": 65,
+          "id": 1794352122913
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 407,
+          "y": 1307,
+          "width": 94,
+          "height": 72,
+          "id": 1794352125601
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 595,
+          "y": 1508,
+          "width": 78,
+          "height": 83,
+          "id": 1794352128377
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 532,
+          "y": 1560,
+          "width": 62,
+          "height": 46,
+          "id": 1794352129801
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 601,
+          "y": 1582,
+          "width": 53,
+          "height": 35,
+          "id": 1794352132657
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 824,
+          "y": 1053,
+          "width": 45,
+          "height": 42,
+          "id": 1794352138449
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 809,
+          "y": 842,
+          "width": 50,
+          "height": 50,
+          "id": 1794352142753
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 161,
+          "y": 1059,
+          "width": 76,
+          "height": 47,
+          "id": 1794352148194
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 150,
+          "y": 851,
+          "width": 53,
+          "height": 47,
+          "id": 1794352154194
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 331,
+          "y": 935,
+          "width": 87,
+          "height": 111,
+          "id": 1794352156705
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 260,
+          "y": 1093,
+          "width": 81,
+          "height": 83,
+          "id": 1794352158802
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 436,
+          "y": 1071,
+          "width": 70,
+          "height": 67,
+          "id": 1794352160897
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 380,
+          "y": 1206,
+          "width": 75,
+          "height": 78,
+          "id": 1794352163544
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 222,
+          "y": 1255,
+          "width": 80,
+          "height": 65,
+          "id": 1794352165161
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 214,
+          "y": 1312,
+          "width": 61,
+          "height": 48,
+          "id": 1794352166969
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 746,
+          "y": 1488,
+          "width": 58,
+          "height": 56,
+          "id": 1794352173602
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 789,
+          "y": 1315,
+          "width": 42,
+          "height": 43,
+          "id": 1794352175297
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 476,
+          "y": 1390,
+          "width": 59,
+          "height": 45,
+          "id": 1794352177320
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 1035,
+          "y": 1275,
+          "width": 47,
+          "height": 54,
+          "id": 1794352182737
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 843,
+          "y": 926,
+          "width": 95,
+          "height": 102,
+          "id": 1794352185464
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 1077,
+          "y": 620,
+          "width": 177,
+          "height": 222,
+          "id": 1794352202625
+        }
+      ]
+    },
+    "117848.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Dungeness crab",
+          "x": 89,
+          "y": 648,
+          "width": 113,
+          "height": 119,
+          "id": 1794352211249
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 204,
+          "y": 617,
+          "width": 111,
+          "height": 159,
+          "id": 1794352213113
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 320,
+          "y": 580,
+          "width": 129,
+          "height": 188,
+          "id": 1794352215889
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 489,
+          "y": 672,
+          "width": 74,
+          "height": 85,
+          "id": 1794352218161
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 549,
+          "y": 694,
+          "width": 65,
+          "height": 72,
+          "id": 1794352219994
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 606,
+          "y": 631,
+          "width": 47,
+          "height": 43,
+          "id": 1794352222025
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 627,
+          "y": 685,
+          "width": 52,
+          "height": 76,
+          "id": 1794352224202
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 701,
+          "y": 644,
+          "width": 114,
+          "height": 173,
+          "id": 1794352227481
+        },
+        {
+          "type": "Hairy helmet crab",
+          "x": 932,
+          "y": 679,
+          "width": 73,
+          "height": 97,
+          "id": 1794352237794
+        },
+        {
+          "type": "Hairy helmet crab",
+          "x": 983,
+          "y": 695,
+          "width": 118,
+          "height": 124,
+          "id": 1794352240567
+        },
+        {
+          "type": "Hairy helmet crab",
+          "x": 1131,
+          "y": 691,
+          "width": 132,
+          "height": 109,
+          "id": 1794352243469
+        },
+        {
+          "type": "Hairy helmet crab",
+          "x": 1293,
+          "y": 691,
+          "width": 162,
+          "height": 138,
+          "id": 1794352245923
+        }
+      ]
+    },
+    "120543.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Hairy shore crab",
+          "x": 411,
+          "y": 167,
+          "width": 198,
+          "height": 203,
+          "id": 1794352254416
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 654,
+          "y": 208,
+          "width": 122,
+          "height": 99,
+          "id": 1794352255720
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 725,
+          "y": 421,
+          "width": 106,
+          "height": 106,
+          "id": 1794352257047
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 317,
+          "y": 421,
+          "width": 131,
+          "height": 119,
+          "id": 1794352260654
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 458,
+          "y": 582,
+          "width": 81,
+          "height": 108,
+          "id": 1794352261902
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 642,
+          "y": 485,
+          "width": 132,
+          "height": 138,
+          "id": 1794352263670
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 768,
+          "y": 599,
+          "width": 126,
+          "height": 122,
+          "id": 1794352265430
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 1031,
+          "y": 579,
+          "width": 127,
+          "height": 128,
+          "id": 1794352266783
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 1098,
+          "y": 856,
+          "width": 163,
+          "height": 169,
+          "id": 1794352269629
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 786,
+          "y": 891,
+          "width": 164,
+          "height": 176,
+          "id": 1794352272348
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 604,
+          "y": 735,
+          "width": 116,
+          "height": 119,
+          "id": 1794352274493
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 362,
+          "y": 765,
+          "width": 78,
+          "height": 92,
+          "id": 1794352276348
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 465,
+          "y": 839,
+          "width": 73,
+          "height": 87,
+          "id": 1794352277476
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 452,
+          "y": 1053,
+          "width": 92,
+          "height": 108,
+          "id": 1794352279581
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 583,
+          "y": 951,
+          "width": 97,
+          "height": 97,
+          "id": 1794352281260
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 667,
+          "y": 1143,
+          "width": 87,
+          "height": 117,
+          "id": 1794352282756
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 836,
+          "y": 1171,
+          "width": 125,
+          "height": 134,
+          "id": 1794352284116
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 473,
+          "y": 1356,
+          "width": 288,
+          "height": 386,
+          "id": 1794352290875
+        },
+        {
+          "type": "Graceful crab",
+          "x": 870,
+          "y": 1555,
+          "width": 222,
+          "height": 296,
+          "id": 1794352295428
+        }
+      ]
+    },
+    "123428.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Purple shore crab",
+          "x": 620,
+          "y": 924,
+          "width": 153,
+          "height": 163,
+          "id": 1794352302459
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 1100,
+          "y": 1257,
+          "width": 93,
+          "height": 127,
+          "id": 1794352304707
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 932,
+          "y": 755,
+          "width": 84,
+          "height": 88,
+          "id": 1794352309115
+        }
+      ]
+    },
+    "124206.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Hairy helmet crab",
+          "x": 431,
+          "y": 687,
+          "width": 550,
+          "height": 520,
+          "id": 1794352317363
+        }
+      ]
+    },
+    "165680.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Red rock crab",
+          "x": 626,
+          "y": 684,
+          "width": 183,
+          "height": 233,
+          "id": 1794352322139
+        }
+      ]
+    },
+    "172952.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Dungeness crab",
+          "x": 593,
+          "y": 527,
+          "width": 253,
+          "height": 345,
+          "id": 1794352327603
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 972,
+          "y": 831,
+          "width": 83,
+          "height": 88,
+          "id": 1794352335251
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 197,
+          "y": 829,
+          "width": 92,
+          "height": 88,
+          "id": 1794352339468
+        },
+        {
+          "type": "Red rock crab",
+          "x": 291,
+          "y": 987,
+          "width": 210,
+          "height": 164,
+          "id": 1794352342227
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 1012,
+          "y": 1199,
+          "width": 158,
+          "height": 159,
+          "id": 1794352345467
+        }
+      ]
+    },
+    "173922.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Graceful crab",
+          "x": 88,
+          "y": 949,
+          "width": 619,
+          "height": 391,
+          "id": 1794352359005
+        },
+        {
+          "type": "Graceful crab",
+          "x": 98,
+          "y": 537,
+          "width": 341,
+          "height": 249,
+          "id": 1794352362339
+        },
+        {
+          "type": "Graceful crab",
+          "x": 603,
+          "y": 576,
+          "width": 336,
+          "height": 236,
+          "id": 1794352364059
+        },
+        {
+          "type": "Graceful crab",
+          "x": 348,
+          "y": 1731,
+          "width": 230,
+          "height": 167,
+          "id": 1794352367596
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 351,
+          "y": 1475,
+          "width": 203,
+          "height": 165,
+          "id": 1794352371291
+        }
+      ]
+    },
+    "174652.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Hairy shore crab",
+          "x": 743,
+          "y": 971,
+          "width": 111,
+          "height": 127,
+          "id": 1794352378121
+        }
+      ]
+    },
+    "178208.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Red rock crab",
+          "x": 505,
+          "y": 355,
+          "width": 135,
+          "height": 176,
+          "id": 1794352386700
+        },
+        {
+          "type": "Red rock crab",
+          "x": 601,
+          "y": 282,
+          "width": 155,
+          "height": 255,
+          "id": 1794352388371
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 763,
+          "y": 205,
+          "width": 227,
+          "height": 311,
+          "id": 1794352392123
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 1000,
+          "y": 249,
+          "width": 170,
+          "height": 246,
+          "id": 1794352395123
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 1176,
+          "y": 197,
+          "width": 164,
+          "height": 226,
+          "id": 1794352397747
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 1128,
+          "y": 845,
+          "width": 180,
+          "height": 280,
+          "id": 1794352402092
+        },
+        {
+          "type": "Graceful crab",
+          "x": 1194,
+          "y": 449,
+          "width": 161,
+          "height": 227,
+          "id": 1794352411795
+        },
+        {
+          "type": "Graceful crab",
+          "x": 1185,
+          "y": 701,
+          "width": 144,
+          "height": 126,
+          "id": 1794352413883
+        },
+        {
+          "type": "Red rock crab",
+          "x": 761,
+          "y": 619,
+          "width": 128,
+          "height": 205,
+          "id": 1794352418579
+        },
+        {
+          "type": "Red rock crab",
+          "x": 865,
+          "y": 452,
+          "width": 323,
+          "height": 477,
+          "id": 1794352422067
+        },
+        {
+          "type": "Spider/Kelp crab",
+          "x": 1097,
+          "y": 1479,
+          "width": 191,
+          "height": 180,
+          "id": 1794352427330
+        },
+        {
+          "type": "Spider/Kelp crab",
+          "x": 1081,
+          "y": 1322,
+          "width": 226,
+          "height": 182,
+          "id": 1794352429763
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 1108,
+          "y": 1273,
+          "width": 77,
+          "height": 65,
+          "id": 1794352545146
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 760,
+          "y": 1793,
+          "width": 73,
+          "height": 64,
+          "id": 1794352548858
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 583,
+          "y": 1685,
+          "width": 81,
+          "height": 72,
+          "id": 1794352550562
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 872,
+          "y": 1635,
+          "width": 71,
+          "height": 76,
+          "id": 1794352553570
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 723,
+          "y": 1538,
+          "width": 71,
+          "height": 84,
+          "id": 1794352556626
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 863,
+          "y": 1511,
+          "width": 65,
+          "height": 67,
+          "id": 1794352558018
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 838,
+          "y": 1410,
+          "width": 85,
+          "height": 81,
+          "id": 1794352559610
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 776,
+          "y": 1351,
+          "width": 81,
+          "height": 81,
+          "id": 1794352561434
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 503,
+          "y": 1375,
+          "width": 110,
+          "height": 115,
+          "id": 1794352563250
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 851,
+          "y": 1126,
+          "width": 69,
+          "height": 68,
+          "id": 1794352567442
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 660,
+          "y": 1069,
+          "width": 71,
+          "height": 69,
+          "id": 1794352569322
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 824,
+          "y": 1016,
+          "width": 58,
+          "height": 58,
+          "id": 1794352574370
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 684,
+          "y": 994,
+          "width": 53,
+          "height": 38,
+          "id": 1794352576746
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 571,
+          "y": 1134,
+          "width": 67,
+          "height": 77,
+          "id": 1794352584050
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 672,
+          "y": 1816,
+          "width": 61,
+          "height": 52,
+          "id": 1794352591761
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 797,
+          "y": 1637,
+          "width": 57,
+          "height": 65,
+          "id": 1794352593658
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 682,
+          "y": 1512,
+          "width": 58,
+          "height": 58,
+          "id": 1794352595370
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 663,
+          "y": 1306,
+          "width": 67,
+          "height": 64,
+          "id": 1794352597562
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 604,
+          "y": 1245,
+          "width": 60,
+          "height": 44,
+          "id": 1794352598986
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 710,
+          "y": 1174,
+          "width": 46,
+          "height": 42,
+          "id": 1794352600322
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 598,
+          "y": 1002,
+          "width": 56,
+          "height": 44,
+          "id": 1794352602281
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 779,
+          "y": 989,
+          "width": 48,
+          "height": 47,
+          "id": 1794352603537
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 828,
+          "y": 1181,
+          "width": 65,
+          "height": 65,
+          "id": 1794352610803
+        }
+      ]
+    },
+    "203982_c.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Dungeness crab",
+          "x": 386,
+          "y": 478,
+          "width": 1143,
+          "height": 708,
+          "id": 1794352621650
+        }
+      ]
+    },
+    "205866_d.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Dungeness crab",
+          "x": 782,
+          "y": 156,
+          "width": 531,
+          "height": 314,
+          "id": 1794352625298
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 867,
+          "y": 438,
+          "width": 518,
+          "height": 349,
+          "id": 1794352628506
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 629,
+          "y": 617,
+          "width": 299,
+          "height": 199,
+          "id": 1794352630306
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 703,
+          "y": 482,
+          "width": 224,
+          "height": 131,
+          "id": 1794352632490
+        },
+        {
+          "type": "Dungeness crab",
+          "x": 644,
+          "y": 333,
+          "width": 271,
+          "height": 169,
+          "id": 1794352634290
+        },
+        {
+          "type": "Red rock crab",
+          "x": 174,
+          "y": 163,
+          "width": 358,
+          "height": 172,
+          "id": 1794352637906
+        },
+        {
+          "type": "Red rock crab",
+          "x": 250,
+          "y": 427,
+          "width": 345,
+          "height": 195,
+          "id": 1794352639858
+        },
+        {
+          "type": "Red rock crab",
+          "x": 349,
+          "y": 640,
+          "width": 214,
+          "height": 122,
+          "id": 1794352642049
+        },
+        {
+          "type": "Red rock crab",
+          "x": 1265,
+          "y": 345,
+          "width": 303,
+          "height": 192,
+          "id": 1794352644611
+        }
+      ]
+    },
+    "207183.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Hairy helmet crab",
+          "x": 326,
+          "y": 379,
+          "width": 305,
+          "height": 303,
+          "id": 1794352650362
+        },
+        {
+          "type": "Hairy helmet crab",
+          "x": 600,
+          "y": 622,
+          "width": 186,
+          "height": 144,
+          "id": 1794352652370
+        },
+        {
+          "type": "Red rock crab",
+          "x": 968,
+          "y": 253,
+          "width": 194,
+          "height": 131,
+          "id": 1794352657611
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 447,
+          "y": 735,
+          "width": 79,
+          "height": 71,
+          "id": 1794352661844
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 641,
+          "y": 815,
+          "width": 104,
+          "height": 87,
+          "id": 1794352663193
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 765,
+          "y": 460,
+          "width": 123,
+          "height": 109,
+          "id": 1794352667841
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 819,
+          "y": 598,
+          "width": 120,
+          "height": 96,
+          "id": 1794352669489
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 1023,
+          "y": 528,
+          "width": 87,
+          "height": 81,
+          "id": 1794352671129
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 1028,
+          "y": 433,
+          "width": 67,
+          "height": 77,
+          "id": 1794352672938
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 1088,
+          "y": 632,
+          "width": 128,
+          "height": 105,
+          "id": 1794352675058
+        },
+        {
+          "type": "Purple shore crab",
+          "x": 968,
+          "y": 717,
+          "width": 89,
+          "height": 86,
+          "id": 1794352676802
+        },
+        {
+          "type": "Crab, uncertain ID",
+          "x": 804,
+          "y": 729,
+          "width": 70,
+          "height": 71,
+          "id": 1794352681162
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 766,
+          "y": 396,
+          "width": 85,
+          "height": 60,
+          "id": 1794352685465
+        }
+      ]
+    },
+    "209070_c.jpg": {
+      "noCrabs": false,
+      "annotations": [
+        {
+          "type": "Dungeness crab",
+          "x": 607,
+          "y": 1181,
+          "width": 155,
+          "height": 228,
+          "id": 1794352696650
+        },
+        {
+          "type": "Hairy shore crab",
+          "x": 697,
+          "y": 958,
+          "width": 49,
+          "height": 42,
+          "id": 1794352701770
+        }
+      ]
+    }
+  }
+}
