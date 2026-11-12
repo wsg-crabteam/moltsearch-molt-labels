@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Molt Search Crab Molt Image Labels"
+version: "1.0"
+date-released: 2026-11-13
+license: CC-BY-4.0
+authors:
+  - family-names: Watkins
+    given-names: Lisa
+    affiliation: Washington Sea Grant
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/ORG/moltsearch-molt-labels"
+abstract: >-
+  Bounding-box labels for 452 crab molt photos (10,017 boxes, 12 crab
+  categories) from Molt Search, a participatory science program of
+  Washington Sea Grant and Washington State University Extension.
+  Photos were submitted by volunteers through MyCoast and are linked
+  by URL; this dataset contains labels only.
+keywords:
+  - European green crab
+  - Carcinus maenas
+  - Dungeness crab
+  - crab molts
+  - participatory science
+  - computer vision
+  - object detection
+  - Molt Search
+preferred-citation:
+  type: data
+  title: "Molt Search Crab Molt Image Labels"
+  version: "1.0"
+  year: 2026
+  authors:
+    - family-names: Watkins
+      given-names: Lisa
+  publisher:
+    name: Washington Sea Grant
+  url: "https://github.com/ORG/moltsearch-molt-labels"
