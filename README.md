@@ -49,7 +49,7 @@ The model goal above focuses on Dungeness and European green crab, but every cra
  
 - **Images:** 452
 - **MyCoast reports:** 362. Some reports include more than one photo.
-- **Bounding boxes:** 10,017. A single image has between 0 and 257 boxes.
+- **Bounding boxes:** 10,038. A single image has between 0 and 257 boxes.
 - **Images with no crabs:** 7
 - **Photo dates:** April 2023 – August 2025
 - **Location:** Washington State shorelines
@@ -84,12 +84,12 @@ The boxes were drawn in a web browser. Browsers use each photo's EXIF orientatio
 |---|---:|---:|
 | Hairy shore crab | 3,288 | 203 |
 | Purple shore crab | 2,072 | 204 |
-| Dungeness crab | 1,487 | 222 |
+| Dungeness crab | 1,493 | 222 |
 | Crab, uncertain ID | 1,385 | 140 |
-| Red rock crab | 1,062 | 222 |
+| Red rock crab | 1,075 | 222 |
 | Graceful crab | 436 | 117 |
 | Hairy helmet crab | 181 | 79 |
-| Spider/Kelp crab | 71 | 51 |
+| Spider/Kelp crab | 73 | 52 |
 | European green crab | 16 | 15 |
 | Pygmy Rock crab | 8 | 8 |
 | Pea crab | 8 | 4 |
