@@ -37,6 +37,9 @@ The Molt Search ID guide and a brief overview of protocols is available <a href=
 Bounding-box labels for 452 photos from Molt Search reports. This dataset contains **labels only**. The photos stay on MyCoast and are linked by URL.
  
 The model goal above focuses on Dungeness and European green crab, but every crab in each photo was labeled to species where possible. This gives a model examples of the native species it must learn to tell apart from green crab, and makes counts and "flag for review" decisions possible across the full photo. This also opens up a possible pathway for extracting additional data on crab species composition from reports in the future.
+
+<img width="759" height="672" alt="Screenshot 2026-11-12 at 10 56 02 AM" src="https://github.com/user-attachments/assets/637077b5-0bf9-41b1-aeaa-a2304f87fa1d" />
+
  
 ### Contents
  
